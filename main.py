@@ -7,3 +7,4 @@ app = FastAPI()
 def hello():
     return {"message": "Testing FastAPI"}
 
+if
